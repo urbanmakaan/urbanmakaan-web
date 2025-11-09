@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "urbanmakaan.api.AppHost", "urbanmakaan.api.AppHost\urbanmakaan.api.AppHost.csproj", "{2E803BBB-2819-414C-A9CA-1FC61CDC57DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "urbanmakaan.api.ServiceDefaults", "urbanmakaan.api.ServiceDefaults\urbanmakaan.api.ServiceDefaults.csproj", "{1285FD2F-7E40-4508-4F35-F329E543313B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "urbanmakaan.api.ApiService", "urbanmakaan.api.ApiService\urbanmakaan.api.ApiService.csproj", "{F62F9444-18EF-16E5-F38B-0994A275897D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E803BBB-2819-414C-A9CA-1FC61CDC57DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E803BBB-2819-414C-A9CA-1FC61CDC57DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E803BBB-2819-414C-A9CA-1FC61CDC57DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E803BBB-2819-414C-A9CA-1FC61CDC57DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1285FD2F-7E40-4508-4F35-F329E543313B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1285FD2F-7E40-4508-4F35-F329E543313B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1285FD2F-7E40-4508-4F35-F329E543313B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1285FD2F-7E40-4508-4F35-F329E543313B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62F9444-18EF-16E5-F38B-0994A275897D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62F9444-18EF-16E5-F38B-0994A275897D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62F9444-18EF-16E5-F38B-0994A275897D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62F9444-18EF-16E5-F38B-0994A275897D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD2E1EE7-3F6B-45CB-84E5-DF2DE8F04F27}
+	EndGlobalSection
+EndGlobal

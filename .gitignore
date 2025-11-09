@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/urbanmakaan.api/urbanmakaan.api.ApiService/bin/Debug/net8.0
+/urbanmakaan.api/urbanmakaan.api.ApiService/obj
+/urbanmakaan.api/urbanmakaan.api.AppHost/bin/Debug/net8.0
+/urbanmakaan.api/urbanmakaan.api.AppHost/obj
+/urbanmakaan.api/urbanmakaan.api.ServiceDefaults/bin/Debug/net8.0
+/urbanmakaan.api/urbanmakaan.api.ServiceDefaults/obj
+/urbanmakaan.api/.vs
